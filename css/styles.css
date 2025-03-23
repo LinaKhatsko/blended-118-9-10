@@ -81,7 +81,7 @@ img {
 
 .list-btn-item {}
 
-list-btn-sign-in {
+.list-btn-sign-in {
     border: 1px solid #bcd0e5;
     border-radius: 4px;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
@@ -93,7 +93,7 @@ list-btn-sign-in {
     color: #173a56;
 }
 
-list-btn-sign-up {
+.list-btn-sign-up {
     border-radius: 4px;
     width: 113px;
     height: 42px;
@@ -103,3 +103,6 @@ list-btn-sign-up {
     font-size: 16px;
     color: #fff;
 }
+
+/* hero */
+
